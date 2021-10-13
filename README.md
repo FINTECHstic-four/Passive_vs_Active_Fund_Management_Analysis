@@ -1,4 +1,4 @@
-# Passive-vs-Active-Management-Analysis
+# Passive-vs-Active-Fund-Management-Analysis
 
 ## Topic of Research
 We want to compare the performance between actively management funds vs ETF/Market (S&p 500) in the past three years (2018-2021) to answer a few questions?
